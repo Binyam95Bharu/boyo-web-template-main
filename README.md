@@ -17,7 +17,7 @@ If you just want to get the app running quickly to test it out, first install
 [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/), and follow along:
 
 ```sh
-git clone git@github.com:sharetribe/web-template.git  # clone this repository
+git clone git@github.com:Binyam95Bharu/boyo-web-template-main.git  # clone this repository
 cd web-template/                                      # change to the cloned directory
 yarn install                                          # install dependencies
 yarn run config                                       # add the mandatory env vars to your local config
